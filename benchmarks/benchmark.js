@@ -1,5 +1,4 @@
 'use strict'
-
 const http = require('node:http')
 const os = require('node:os')
 const path = require('node:path')
