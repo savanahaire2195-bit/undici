@@ -1,4 +1,4 @@
-'use strict'
+npm i undici'use strict'
 
 const http = require('node:http')
 const os = require('node:os')
